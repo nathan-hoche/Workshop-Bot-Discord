@@ -1,11 +1,15 @@
-# <center>**Workshop - Bot Discord**</center>
+<h1 align="center">
+    Workshop - Bot Discord
+</h1>
 
 <p align="center">
     <img width="250" height="250" src="https://emoji.gg/assets/emoji/6812_disc.png">
 </p>
 <br>
 
-<center><h2>The objective of this workshop is to learn how to create a Discord bot with Python Discord's API.</h2></center>
+<h3 align="center">
+    The objective of this workshop is to learn how to <br> create a Discord bot with Python Discord's API.
+</h3>
 <br><br>
 
 ### **What's Discord?**
