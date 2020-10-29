@@ -1,7 +1,7 @@
 # <center>**Workshop - Bot Discord**</center>
 
 <p align="center">
-    <img src="https://assets.materialup.com/uploads/c4ea2753-8ad6-49b6-9d3e-68eb8564e803/teaser.png"/>
+    <img width="250" height="250" src="https://emoji.gg/assets/emoji/6812_disc.png">
 </p>
 <br>
 
